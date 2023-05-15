@@ -1,0 +1,13 @@
+com\portfolio\var\VarApplication$1.class
+com\portfolio\var\controller\CExperiencia.class
+com\portfolio\var\entity\Experiencia.class
+com\portfolio\var\repository\RExperiencia.class
+com\portfolio\var\service\ImpPersonaService.class
+com\portfolio\var\dto\dtoExperiencia.class
+com\portfolio\var\repository\IPersonaRepository.class
+com\portfolio\var\controller\PersonaController.class
+com\portfolio\var\service\SExperiencia.class
+com\portfolio\var\VarApplication.class
+com\portfolio\var\entity\Persona.class
+com\portfolio\var\security\controller\Mensaje.class
+com\portfolio\var\interfaz\IPersonaService.class
